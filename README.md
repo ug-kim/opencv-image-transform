@@ -26,3 +26,4 @@ The angle parameter is meaning the degree of rotation. When entering a positive 
 
 ### zoom_in
 The scale parameter is meaning the degree of expansion. This zoom in randomly. 
+The smaller the scale parameter value, the larger the magnification ratio.
